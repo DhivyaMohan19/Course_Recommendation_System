@@ -1,0 +1,4 @@
+streamlit
+scikit-learn
+plotly
+kaleido==0.1.*
